@@ -1,0 +1,111 @@
+.toparea{
+    width:100%;
+    height:100%
+}
+.sarea{
+    width:100% ;
+    background-color: black;
+    padding:40px 0 300px 0;
+}
+.sarea:hover-text{
+    color:aquamarine;
+}
+.sarea h2{
+    position:relative;
+    padding-top:30px;
+    font-size:27px;
+    color:white ;
+    text-align:center;
+}
+.sarea h4{
+    margin-top:16px;
+    text-align:center;
+    color: white;
+}
+.tarea{
+    background: white;
+    width:100%;
+    padding:50px;
+    font-size: 16px;
+    text-align: center;
+}
+.tarea img{
+    width:110px;
+}
+.tarea h5{
+    color:black;
+    font-size: 16px;
+        line-height: 24px;
+
+}
+
+.tarea p{
+        color:black;
+        font-size: 16px;
+        text-align: center;
+}
+.farea{
+    background:white;
+    width:100%;
+    padding:50px ;
+}
+.farea img{
+    width:80px;
+}
+.farea h1{
+    color:black;
+    font-size:50px ;
+    text-align: center;
+    padding-bottom: 20px;
+    padding-left: 50px;
+    padding-right:30px ;
+
+}
+.farea h2{
+    color:red;
+    font-size:40px ;
+
+
+}
+.farea h3{
+    color:black;
+    text-align:left;
+}
+.barea{
+    width:100%;
+    color: white;
+    padding-left:150px ;
+}
+.barea img{
+    width:100px ;
+}
+.barea p{
+    color: gray;
+}
+.barea h1{
+    color: black;
+    font-size:50px;
+}
+.barea h5{
+    color:black
+}
+.barea h6{
+    color:gray
+}
+.Rarea{
+    width:100%;
+}
+.Rarea h1{
+    color:black;
+    text-align:center;
+}
+.Rarea h5{
+    color:gray;
+    text-align:center;
+}
+.testing{
+    margin-top:-300px;
+}
+.testing img{
+    width:100%;
+}
