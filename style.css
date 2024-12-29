@@ -1,6 +1,6 @@
 .toparea{
     width:100%;
-    height:100%
+    height:100%;
 }
 .sarea{
     width:100% ;
@@ -44,10 +44,46 @@
         font-size: 16px;
         text-align: center;
 }
+.varea{
+    width:100% ;
+    margin-left:-10px ;
+    margin-right:-10px ;
+    transition-property: opacity;
+}
+.varea h1{
+    color:black;
+    font-size: 30px;
+        text-align: center;
+        margin-bottom:70px ;
+}
+.varea-text h6{
+    font-size:16px ;
+    margin-bottom:8px ;
+    font-weight:200;
+    line-height:28px ;
+    text-align: left;
+    text-decoration-color: white;
+    color:black;
+    text-size-adjust:100% ;
+    margin-block-end:8px ;
+   
+
+}
+.varea-text p{
+    font-style:normal;
+    font-size:15px;
+    font-weight:200;
+    line-height:10px; 
+}
+.varea img{
+        width:250px;
+        box-shadow: 5px 5px 5px burlywood;
+        
+}
 .farea{
     background:white;
     width:100%;
-    padding:50px ;
+    padding:50px;
 }
 .farea img{
     width:80px;
@@ -75,6 +111,7 @@
     width:100%;
     color: white;
     padding-left:150px ;
+    padding-bottom:10% ;
 }
 .barea img{
     width:100px ;
@@ -93,19 +130,110 @@
     color:gray
 }
 .Rarea{
-    width:100%;
+    position:relative;
 }
-.Rarea h1{
-    color:black;
-    text-align:center;
+.Rarea-text{
+    position: absolute;
+    top:25%;
+    color:aliceblue;
+    padding:20px;
 }
-.Rarea h5{
-    color:gray;
-    text-align:center;
+.Rarea-text h3{
+    font-size:50px ;
+    text-transform: uppercase;
+    font-weight:1000 ;
+    margin-bottom: 5px;
+    text-align: center;
+    font-style:normal;
+    outline-color: antiquewhite;
+    color: rgb(255,255,255);
+    line-height:52px ;
+    text-size-adjust: 100%;
+    margin-right:10px; 
+    margin-left: 10px;
 }
+.Rarea p{
+    text-align: center;
+    font-size:16px ;
+    font-style:500px ;
+    letter-spacing:-0.4px;
+    text-size-adjust:100% ;
+}
+
+
+    
+
+
+
+.Rarea img{
+    height:600px;
+    width:1700px;
+}
+
+
+
+
+
+
 .testing{
     margin-top:-300px;
 }
 .testing img{
     width:100%;
 }
+.aarea{
+    width:100%;
+    margin-top:70px ;
+}
+.aarea h1{
+    margin-bottom:20px ;
+}
+.aarea img{
+    width:500px;
+}
+.iconarea{
+    width:100%;
+    background-color:black;
+    margin-top: 20px;
+    margin-bottom:40px ;
+}
+.iconarea h1{
+    font-size: 30px;
+    color:white;
+    text-align:center;
+    padding-top:100px;
+}
+.iconarea img{
+    width:132.325px;
+    padding-top: 100px;
+    width:250px; 
+    margin-right: 56px;
+    align-items: center;
+    height:400px;
+    justify-content: center;
+    font-size: 14.112px;
+    font-weight:400;
+    line-height: 24.48px;
+    padding-bottom:100px;
+
+}
+.brandarea{
+    width:100%;
+    padding-left: 100px;
+    padding-top: 100px;
+}
+.brandarea h1{
+    font-size: 30px;
+    color: black;
+    text-align:left;
+}
+.brandarea p{
+ color: grey;
+ line-height:30px;
+}
+.brandarea img{
+    width:200px;
+    align-items:center;
+    
+}
+
